@@ -33,11 +33,9 @@ class LoginViewController: UIViewController {
                 
                 self.showAlert(title: "Signed in successfuly", message: "You have been successfully Signed In")
                 
-                //let VC1 = self.storyboard!.instantiateViewController(withIdentifier: "DashboardViewController") as! DashboardViewController
-                
-                //let navController = UINavigationController(rootViewController: VC1)
-                
-                //self.present(navController, animated:true, completion: nil)
+//                let VC1 = self.storyboard!.instantiateViewController(withIdentifier: "DashboardViewController") as! DashboardViewController
+//                let navController = UINavigationController(rootViewController: VC1)
+//                self.present(navController, animated:true, completion: nil)
             }
         }
     }
