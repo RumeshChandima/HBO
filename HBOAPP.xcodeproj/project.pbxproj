@@ -15,6 +15,7 @@
 		6FF9E99623E46C8600B5E8E7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6FF9E99523E46C8600B5E8E7 /* Assets.xcassets */; };
 		6FF9E99923E46C8600B5E8E7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6FF9E99723E46C8600B5E8E7 /* LaunchScreen.storyboard */; };
 		6FF9E9A123E46D2300B5E8E7 /* RegistrationViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6FF9E9A023E46D2300B5E8E7 /* RegistrationViewController.swift */; };
+		6FFAE71823F1A3A4005B424A /* HomeTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6FFAE71723F1A3A4005B424A /* HomeTableViewController.swift */; };
 		F7ECAC6CFE79B1ECF5C3C8CF /* Pods_HBOAPP.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3D93B351F740FB3339F80C19 /* Pods_HBOAPP.framework */; };
 /* End PBXBuildFile section */
 
@@ -30,6 +31,7 @@
 		6FF9E99823E46C8600B5E8E7 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		6FF9E99A23E46C8600B5E8E7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		6FF9E9A023E46D2300B5E8E7 /* RegistrationViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RegistrationViewController.swift; sourceTree = "<group>"; };
+		6FFAE71723F1A3A4005B424A /* HomeTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeTableViewController.swift; sourceTree = "<group>"; };
 		97D0028B68F413F40F07B9AA /* Pods-HBOAPP.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-HBOAPP.release.xcconfig"; path = "Target Support Files/Pods-HBOAPP/Pods-HBOAPP.release.xcconfig"; sourceTree = "<group>"; };
 		EA3C58D3C7BE8689FC810028 /* Pods-HBOAPP.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-HBOAPP.debug.xcconfig"; path = "Target Support Files/Pods-HBOAPP/Pods-HBOAPP.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -85,6 +87,7 @@
 				6FF9E99A23E46C8600B5E8E7 /* Info.plist */,
 				6FF9E9A023E46D2300B5E8E7 /* RegistrationViewController.swift */,
 				6F6240A123E4B0B8004424D2 /* LoginViewController.swift */,
+				6FFAE71723F1A3A4005B424A /* HomeTableViewController.swift */,
 			);
 			path = HBOAPP;
 			sourceTree = "<group>";
@@ -217,6 +220,7 @@
 				6FF9E9A123E46D2300B5E8E7 /* RegistrationViewController.swift in Sources */,
 				6FF9E99123E46C8300B5E8E7 /* ViewController.swift in Sources */,
 				6FF9E98F23E46C8300B5E8E7 /* AppDelegate.swift in Sources */,
+				6FFAE71823F1A3A4005B424A /* HomeTableViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

@@ -25,6 +25,7 @@ class RegistrationViewController: UIViewController {
         // Do any additional setup after loading the view.
     }
     
+  
     @IBAction func btnRegister(_ sender: Any) {
         
         if(txtPassword.text! == txtConfirmPassword.text! && txtPassword.text!.count>=6){
